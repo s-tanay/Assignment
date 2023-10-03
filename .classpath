@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/apiguardian-api-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/ci-environment-9.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/cucumber-core-7.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/cucumber-expressions-16.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/cucumber-gherkin-7.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/cucumber-gherkin-messages-7.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/cucumber-plugin-7.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/cucumber-testng-7.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/datatable-7.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/docstring-7.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/gherkin-26.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/html-formatter-20.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/jquery-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/junit-xml-formatter-0.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/messages-22.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/tag-expressions-5.0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Projects and programs/cucumberTestng jar/testng-7.8.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

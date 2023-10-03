@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"f75761ee-e2d5-4f27-88b0-3e90aba61651","feature":"Navigating back to javatpoint.com HomePage","scenario":"User is navigated to Selenium Features","start":1696321734021,"group":1,"content":"","tags":"","end":1696321813596,"className":"passed"},{"id":"1700efa7-50e6-412b-bbd7-6ca952694cfe","feature":"To Search topics using www.javatpoint.com","scenario":"Search the Selenium","start":1696321499224,"group":1,"content":"","tags":"","end":1696321733975,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
